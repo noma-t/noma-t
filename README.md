@@ -1,4 +1,4 @@
-![AomiVel's GitHub stats](https://github-readme-stats.vercel.app/api?username=AomiVel&show_icons=true&default)
+![AomiVel's GitHub stats](https://github-readme-stats.vercel.app/api?username=AomiVel&show_icons=true&bg_color=000c1a&title_color=61dafb&text_color=cdd7ff)
 
 <!--
 **AomiVel/AomiVel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
