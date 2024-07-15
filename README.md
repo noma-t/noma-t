@@ -1,12 +1,12 @@
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AomiVel)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=noma-t)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AomiVel)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=noma-t)
 #
 
-![AomiVel's GitHub stats](https://github-readme-stats.vercel.app/api?username=AomiVel&show_icons=true&bg_color=000c1a&title_color=61dafb&text_color=cdd7ff)
+![AomiVel's GitHub stats](https://github-readme-stats.vercel.app/api?username=noma-t&show_icons=true&bg_color=000c1a&title_color=61dafb&text_color=cdd7ff)
 
 
-![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=AomiVel&layout=compact&bg_color=000c1a&title_color=61dafb&text_color=cdd7ff)
+![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=noma-t&layout=compact&bg_color=000c1a&title_color=61dafb&text_color=cdd7ff)
 
 
 <!--
