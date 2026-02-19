@@ -3,14 +3,14 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=noma-t)
 #
 
-![AomiVel's GitHub stats](https://github-readme-stats.vercel.app/api?username=noma-t&show_icons=true&bg_color=000c1a&title_color=61dafb&text_color=cdd7ff)
+![noma's GitHub stats](https://github-readme-stats.vercel.app/api?username=noma-t&show_icons=true&bg_color=000c1a&title_color=61dafb&text_color=cdd7ff)
 
 
 ![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=noma-t&layout=compact&bg_color=000c1a&title_color=61dafb&text_color=cdd7ff)
 
 
 <!--
-**AomiVel/AomiVel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**noma-t/noma-t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
