@@ -1,7 +1,5 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&width=440&lines=builder+%2F+rust+%2F+typescript;niche+tools+for+niche+communities)](https://git.io/typing-svg)
-
 </div>
 
 <br>
