@@ -1,0 +1,31 @@
+<svg width="100%" viewBox="0 0 800 36" xmlns="http://www.w3.org/2000/svg" role="img">
+  <title>Tools</title>
+  <rect width="800" height="36" fill="#0d1117"/>
+  <rect x="0" y="0" width="3" height="36" fill="#58A6FF"/>
+  <circle cx="30" cy="18" r="7" fill="none" stroke="#58A6FF" stroke-width="1.5"/>
+  <circle cx="30" cy="18" r="3" fill="#58A6FF"/>
+  <text x="56" y="24" font-family="monospace" font-size="13" font-weight="400" fill="#8b949e">05.</text>
+  <text x="84" y="24" font-family="monospace" font-size="14" font-weight="600" fill="#e6edf3">Tools</text>
+  <g opacity="0.12">
+    <circle cx="660" cy="10" r="1.5" fill="#58A6FF"/>
+    <circle cx="674" cy="10" r="1.5" fill="#58A6FF"/>
+    <circle cx="688" cy="10" r="1.5" fill="#58A6FF"/>
+    <circle cx="702" cy="10" r="1.5" fill="#58A6FF"/>
+    <circle cx="716" cy="10" r="1.5" fill="#58A6FF"/>
+    <circle cx="730" cy="10" r="1.5" fill="#58A6FF"/>
+    <circle cx="744" cy="10" r="1.5" fill="#58A6FF"/>
+    <circle cx="758" cy="10" r="1.5" fill="#58A6FF"/>
+    <circle cx="772" cy="10" r="1.5" fill="#58A6FF"/>
+    <circle cx="786" cy="10" r="1.5" fill="#58A6FF"/>
+    <circle cx="660" cy="26" r="1.5" fill="#58A6FF"/>
+    <circle cx="674" cy="26" r="1.5" fill="#58A6FF"/>
+    <circle cx="688" cy="26" r="1.5" fill="#58A6FF"/>
+    <circle cx="702" cy="26" r="1.5" fill="#58A6FF"/>
+    <circle cx="716" cy="26" r="1.5" fill="#58A6FF"/>
+    <circle cx="730" cy="26" r="1.5" fill="#58A6FF"/>
+    <circle cx="744" cy="26" r="1.5" fill="#58A6FF"/>
+    <circle cx="758" cy="26" r="1.5" fill="#58A6FF"/>
+    <circle cx="772" cy="26" r="1.5" fill="#58A6FF"/>
+    <circle cx="786" cy="26" r="1.5" fill="#58A6FF"/>
+  </g>
+</svg>
