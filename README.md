@@ -16,8 +16,8 @@
 
 <div align="center">
 
-![snake](https://github.com/noma-t/noma-t/raw/main/dist/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![snake](https://github.com/noma-t/noma-t/raw/main/dist/github-contribution-grid-snake.svg#gh-light-mode-only)
+![snake](https://raw.githubusercontent.com/noma-t/noma-t/output/dist/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![snake](https://raw.githubusercontent.com/noma-t/noma-t/output/dist/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 </div>
 
